@@ -61,7 +61,7 @@ p {
 }
 
 u {
-  font-size: 15px;
+  font-size: 16px;
 }
 .envelope > .letter {
   position: absolute;
@@ -79,7 +79,7 @@ u {
 .envelope > .letter > .text {
   color: var(--txt-color);
   text-align: start;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .envelope > .letter > .sign {
